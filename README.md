@@ -1,5 +1,7 @@
 # swarm-probe
 
+[![PyPI version](https://img.shields.io/pypi/v/swarm-probe)](https://pypi.org/project/swarm-probe/)
+
 Adversarial resilience testing for multi-agent ecosystems.
 
 Everyone tests individual AI agents. Nobody tests what happens when thousands of agents interact — and one gets compromised. **swarm-probe** simulates adversarial attacks against multi-agent ecosystems and measures collective resilience.
